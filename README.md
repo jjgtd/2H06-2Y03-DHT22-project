@@ -3,7 +3,7 @@ Group Reflection
 Person 1: 
     Lam Joshua
 
-My main contributions are: I wrote the code and did the wiring for the phase 1 breadboard prototype. Furthermore, I did the finishing steps in drawing the pcb, entering the exact coordinates for through-holes and filling the board with GND copper pour. During this project, I have learnt basic c++ coding, utilizing AI in my work properly, some pcb drawing knowledge, and most importantly, perseverance. One of the frequent failures of our system during phase 1 was the seemingly random times when pressing the RST button on the esp32 simply would not update the temperature and humidity readings
+My main contributions are: I did the code and did the wiring for the phase 1 breadboard prototype. Furthermore, I did the finishing steps for the pcb like filling the board with GND copper pour. During this project, I have learnt basic c++ coding, utilizing AI in my work properly, some pcb drawing knowledge, and perseverance. One of the frequent failures of our system during phase 1 was the seemingly random times when pressing the RST button on the esp32 simply would not update the temperature and humidity readings. We found this problem to be caused by unreliable power sources. When powered by our battery pack, it always worked in our testing. I decided to leave my device powered on overnight, found that it worked no problem the next morning. If I had more time, I would develop more advanced features in the code, designin a more sophisticated enclosure, optimize the PCB's track layout.
 
 Person 2:
     Lam Cheuk Hei Heicus
